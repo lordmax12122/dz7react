@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lordmax12122/dz7react/static/css/main.28ef3bed.css",
+    "main.js": "/lordmax12122/dz7react/static/js/main.cb8b29d5.js",
+    "static/js/453.a54f1f81.chunk.js": "/lordmax12122/dz7react/static/js/453.a54f1f81.chunk.js",
+    "index.html": "/lordmax12122/dz7react/index.html",
+    "main.28ef3bed.css.map": "/lordmax12122/dz7react/static/css/main.28ef3bed.css.map",
+    "main.cb8b29d5.js.map": "/lordmax12122/dz7react/static/js/main.cb8b29d5.js.map",
+    "453.a54f1f81.chunk.js.map": "/lordmax12122/dz7react/static/js/453.a54f1f81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28ef3bed.css",
+    "static/js/main.cb8b29d5.js"
+  ]
+}
